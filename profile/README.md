@@ -29,10 +29,16 @@ Merchant: Login to Merchant roles account. Set merchant open hour. Add menu alon
 
 ## Project Architecture
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://github.com/user-attachments/assets/8bc998ce-a023-487e-9e93-064f9ec10d51" alt="StudentFlow" width="45%"/>
-  <img src="https://github.com/user-attachments/assets/2b2c0530-89cc-428f-a6fe-2958eb6d0357" alt="ParentsFlow" width="45%"/>
+<div style="text-align: center;">
+  <p><strong>Student Flow</strong></p>
+  <img src="https://github.com/user-attachments/assets/8bc998ce-a023-487e-9e93-064f9ec10d51" alt="StudentFlow" width="100"/>
 </div>
+
+<div style="text-align: center; margin-top: 20px;">
+  <p><strong>Parents Flow</strong></p>
+  <img src="https://github.com/user-attachments/assets/2b2c0530-89cc-428f-a6fe-2958eb6d0357" alt="ParentsFlow" width="100"/>
+</div>
+
 
 ## Project Documentation
 1. Learning Path Documentation
