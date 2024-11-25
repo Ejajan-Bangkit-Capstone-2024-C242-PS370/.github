@@ -13,7 +13,7 @@ Student: Login to Student roles account, using face recognition. View all of the
 Merchant: Login to Merchant roles account. Set merchant open hour. Add menu along with its detail such as: average time for each menu to be prepared, and each menu basic ingridients. Receive order request. Confirm menu pickup using face recognition. Receive the deducted student balance after the menu pickup is confirmed. Cashout merchant balance. Log out Merchants account.
 
 
-## Team Member - C242-PS337
+## Team Member - C242-PS370
 
 | Bangkit ID    | Name                           | Learning Path         | LinkedIn Profile                                         | Github                               | Status   |
 |---------------|--------------------------------|-----------------------|----------------------------------------------------------|--------------------------------------|----------|
