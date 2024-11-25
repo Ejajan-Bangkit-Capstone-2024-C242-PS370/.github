@@ -2,6 +2,7 @@
 Smart Canteen
 
 ![ejajanLogo](https://github.com/user-attachments/assets/cc8d4abf-e5f5-498e-aafd-68bf8f64d5a3)
+<img src="https://github.com/user-attachments/assets/cc8d4abf-e5f5-498e-aafd-68bf8f64d5a3" alt="ejajanLogo" width="300"/>
 
 ## About this project
 E - Jajan: A native android application developed using Kotlin in Android Studio that implement several Machine learning feature and connection to the Cloud. There are 3 roles of the user within this application, they are Parent, Student, and Merchant. Below are the things that each role able to do within this application.
@@ -28,6 +29,10 @@ Merchant: Login to Merchant roles account. Set merchant open hour. Add menu alon
 ## Application Result
 
 ## Project Architecture
+![StudentFlow](https://github.com/user-attachments/assets/8bc998ce-a023-487e-9e93-064f9ec10d51)
+
+![ParentsFlow](https://github.com/user-attachments/assets/2b2c0530-89cc-428f-a6fe-2958eb6d0357)
+
 
 ## Project Documentation
 1. Learning Path Documentation
