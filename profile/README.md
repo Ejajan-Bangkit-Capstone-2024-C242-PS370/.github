@@ -17,7 +17,7 @@ Merchant: Login to Merchant roles account. Set merchant open hour. Add menu alon
 
 | Bangkit ID    | Name                           | Learning Path         | LinkedIn Profile                                         | Github                               | Status   |
 |---------------|--------------------------------|-----------------------|----------------------------------------------------------|--------------------------------------|----------|
-| M002B4KX0167  | Agharini Linda Ariyani         | Machine Learning      | https://www.linkedin.com/in/agharini/                    | -                                    | Active   |
+| M002B4KX0167  | Agharini Linda Ariyani         | Machine Learning      | https://www.linkedin.com/in/agharini/                    | https://github.com/allergictocode    | Active   |
 | M002B4KY1687  | Hakim Al Ikhsan                | Machine Learning      | https://www.linkedin.com/in/hakim-al-ikhsan-524b84243/   | -                                    | Active   |
 | M002B4KY4385  | Va Syarif                      | Machine Learning      | https://www.linkedin.com/in/vasyarif/                    | -                                    | Active   |
 | C128B4KX4001  | Safina Ayu Rasya               | Cloud Computing       | https://www.linkedin.com/in/safina-ayu-rasya-14363a330/  | -                                    | Active   |
